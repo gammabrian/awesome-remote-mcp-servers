@@ -4929,6 +4929,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LFG Alarm](https://lfg.gm) `https://mcp.lfg.gm`
   [![LFG Alarm MCP connector](https://glama.ai/mcp/connectors/gm.lfg/alarm/badges/score.svg)](https://glama.ai/mcp/connectors/gm.lfg/alarm)
   🔐 - Set real alarms that ring on your phone and your friends' phones: wake-up times, events, posts, price moves or webhooks.
+- [LucyESL](https://lucyesl.com/developers) `https://lucyesl.com/mcp`
+  [![LucyESL MCP connector](https://glama.ai/mcp/connectors/com.lucyesl/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.lucyesl/jobs)
+  🔓 - Search English-teaching jobs in South Korea and read their salary, disclosure and by-region statistics.
 - [Lunacal](https://lunacal.ai) `https://mcp.lunacal.ai/mcp`
   [![Lunacal MCP connector](https://glama.ai/mcp/connectors/ai.lunacal.mcp/lunacal/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lunacal.mcp/lunacal)
   🔐 - Find open slots, book, reschedule and cancel meetings, and create or update event types on Lunacal.
